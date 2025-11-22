@@ -1,0 +1,15 @@
+Parcurgerea Iterativa a grafului
+1 4 5 3 2 
+
+Arorele DFS este:
+1 -> 2 
+4 -> 3 
+1 -> 4 
+4 -> 5 
+
+Parcugerea Recusiva a grafului
+Nodul 3 are timpul 5/6
+Nodul 4 are timpul 4/7
+Nodul 5 are timpul 3/8
+Nodul 2 are timpul 2/9
+Nodul 1 are timpul 1/10
